@@ -131,8 +131,6 @@ extra:
   social:
     - icon: fontawesome/brands/github
       link: https://github.com/Eraytrn
-    - icon: fontawesome/brands/github
-      link: https://github.com/ucoruh
     - icon: fontawesome/brands/bitbucket
       link: https://bitbucket.org/ucoruh/
     - icon: fontawesome/regular/compass
