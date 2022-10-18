@@ -10,9 +10,9 @@ _class: lead
 paginate: true
 backgroundColor: #fff
 backgroundImage: url('https://marp.app/assets/hero-background.svg')
-header: 'CE204 Object-Oriented Programming Syllabus'
-footer: '![height:50px](http://erdogan.edu.tr/Images/Uploads/MyContents/L_379-20170718142719217230.jpg) RTEU C204 Syllabus'
-title: "CE204 Object-Oriented Programming Syllabus"
+header: 'CE103 Algorithms and Programming-I Syllabus'
+footer: '![height:50px](http://erdogan.edu.tr/Images/Uploads/MyContents/L_379-20170718142719217230.jpg) RTEU CE103 Syllabus'
+title: "CE103 Algorithms and Programming-I"
 author: "Author: Asst. Prof. Dr. Uğur CORUH"
 date:
 subtitle: "Detailed Syllabus"
@@ -58,15 +58,17 @@ math: katex
 
 ## Computer Engineering
 
-### CE204 Object-Oriented Programming
+### CE103 Algorithms and Programming-I
 
 #### Syllabus
 
-#### Spring Semester, 2021-2022
+#### Fall Semester, 2021-2022
+
 
 Download [DOC](syllabus.en.md_doc.pdf), [SLIDE](syllabus.en.md_slide.pdf), [PPTX](syllabus.en.md_slide.pptx)
 
-Download [WORD](2021-2022-spring-ce204-object-oriented-programming-comp-eng.docx), [PDF](2021-2022-spring-ce204-object-oriented-programming-comp-eng.pdf)
+Download [WORD](2021-2022-fall-ce103-algorithms-and-programming-I-comp-eng.docx), [PDF](2021-2022-fall-ce103-algorithms-and-programming-I-comp-eng.pdf)
+
 
 <iframe width=700, height=500 frameBorder=0 src="../syllabus.en.md_slide.html"></iframe>
 
@@ -74,103 +76,145 @@ Download [WORD](2021-2022-spring-ce204-object-oriented-programming-comp-eng.docx
 
 <!-- paginate: true -->
 
-| Instructor                 | Asst. Prof. Dr. Uğur CORUH                                      |
-| -------------------------- | --------------------------------------------------------------- |
-| **Contact Information**    | ugur.coruh@erdogan.edu.tr                                       |
-| **Office No**              | **F-301**                                                       |
-| **Google Classroom Code**  | **n24xrzo**                                                     |
-| **Lecture Hours and Days** | Theory - Monday (13:00-16:00) Lab – Thursday (10:00-12:00)      |
+| Instructor                 | Asst. Prof. Dr. Uğur CORUH                                    |
+| -------------------------- | ------------------------------------------------------------- |
+| **Contact Information**    | ugur.coruh@erdogan.edu.tr                                     |
+| **Office No**              | F-301                                                         |
+| **Google Classroom Code**  | 3ipdtws                                                       |
+| **Lecture Hours and Days** | Monday 13:00 - 15:30 (Theory) / Wednesday 13:00 - 14:30 (Lab) |
 
 ---
 
-| **Lecture Classroom** | D-203                                                                                                                                                                                                                                            |
-| --------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
-| **Office Hours**      | Meetings will be scheduled over Google Meet with your university account and email and performed via demand emails. Please send emails with the subject starts with [CE204] tag for the fast response and write formal, clear, and short emails. |
+| **Lecture Classroom** | İBBF 402 Level-4                                                                                                                                                                                                                                  |
+| --------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **Office Hours**      | Meetings will be scheduled over Google Meet with your university account and email and performed via demand emails. Please send emails with the subject starting with [CE103] tag for the fast response and write formal, clear, and short emails |
 
 ---
 
-| **Lecture and Communication Language**     | English                                                                       |
-| ------------------------------------------ | ----------------------------------------------------------------------------- |
-| **Theory/Laboratory Course Hour Per Week** | 3/2 Hours                                                                     |
-| **Credit**                                 | 4                                                                             |
-| **Prerequisite**                           | CE103- Algorithms and Programming I CE100- Algorithms and Programming II      |
-| **Corequisite**                            | TBD                                                                           |
-| **Requirement**                            | TBD                                                                           |
+| **Lecture and Communication Language**     | English   |
+| ------------------------------------------ | --------- |
+| **Theory/Laboratory Course Hour Per Week** | 3/2 Hours |
+| **Credit**                                 | 4         |
+| **Prerequisite**                           | TBD       |
+| **Corequisite**                            | TBD       |
+| **Requirement**                            | TBD       |
 
 *TBD: To Be Defined.
 
 ---
 
-## A.Course Description
+## A.    Course Description
 
-This course introduces advanced programming skills with a focus on object-oriented programming and design fundamentals using a high-level language such as Java. Object-oriented programming is the process of integrating software components into a large-scale software architecture. After learning the fundamentals of coding, this approach to software development is the next logical step, allowing for large-scale programs. The course focuses on understanding and applying object-oriented concepts such as classes, objects, data abstraction, methods, method overloading, inheritance, and polymorphism.
-The class will be built around sharing expertise and guiding students to find learning methods and practice for object-oriented programming topics. Making programming applications and projects in the courses will strengthen the learning process by putting theory into practice.
+This course goal is to develop algorithm and programming expertise from scratch in a powerful way to provide a high-quality career path for students. The lecture will be based on expertise sharing and guiding students to find learning methods and practice for algorithm and programming topics. By making programming applications and projects in the courses, the learning process will be strengthened by practicing rather than theory. This course provides functional programming for C, C++, C#, and Java with up-to-date development environments.
 
 ---
 
-## B.Course Learning Outcomes
+## B.    Course Learning Outcomes
 
 After completing this course satisfactorily, a student will be able to:
 
-- Design applications using OO techniques
+- Understand a software developer's road map and qualifications.
 
-- Use the unified software development process to manage software development
-
-- Use UML for the notation diagrams of applications
-
-- Apply useful design and architecture patterns for software development.
+- Use different types of development environments to build applications.
 
 ---
 
-## C.Course Topics
+- Understand the relation between real-life problems and their programming practices.
 
-- Object-oriented concepts
+- Use language features in C, C++, C#, and Java for functional programming and evaluate their relative benefits.
 
-- Unified object-oriented analysis and design process
-
-- Unified Model Language
-
-- Use case analysis
-
-- Object structure and behavior analysis
-
-- System design
-
-- Application architecture and design patterns
-
-- Java implementation of object-oriented design
+- Understand application generation flows and outputs in detail, such as binaries and executables. 
 
 ---
 
-## D.Textbooks and Required Hardware or Equipment
+- Use the source code, version management systems, and portals based on GIT
 
-This course does not require a coursebook. If necessary, you can use the following books and open-source online resources. 
+- Work on the remote systems with remote connection tools.
 
-- *Timothy C. Lethbridge and Robert Laganière, Object-Oriented Software Engineering: Practical Software Development using UML and Java, McGraw Hill*
+- Use common developer tools that help application developers
 
-- *Walter Savitch, Absolute C++,  Addison-Wesley Longman*
+---
 
-----
+- Create application libraries such as static, shared libraries for code reusability and functional packaging. 
 
+- Create unit tests for their applications to automate tests for their algorithms. 
 
+- Create console and GUI-based applications for their solutions.
+
+- Create documentation for their applications.
+
+---
+
+## C.    Course Topics
+
+---
+
+- Developer Road Map
+
+- Algorithm Design and Basics
+
+- Basic Operating System Information for Development Requirement
+
+---
+
+- Basic Remote Connection and Working Know-How
+
+- Source Code Version Management Systems (GIT)
+
+- Integrated Development Environments
+
+---
+
+- Application Test Automation
+
+- Application Debugging and Bugfixing
+
+- Functional Programming (C,C++, C#, Java)
+
+---
+
+- Continues Integration and Continues Development Processes
+
+- Software Development Principles
+
+- Application Documentation Automation
+
+- Shared and Static Library Development and Test in Cross-Environment
+
+---
+
+## D.    Textbooks and Required Hardware or Equipment
+
+This course does not require a coursebook.
+If necessary, you can use the following books and open-source online resources.
+
+---
+
+- *Paul Deitel and Harvey Deitel. 2012. C How to Program (7th. ed.). Prentice Hall Press, USA.*
 
 - *Intro to Java Programming, Comprehensive Version (10th Edition) 10th Edition by Y. Daniel Liang*
 
+- *Introduction to Algorithms, Third Edition By Thomas H. Cormen, Charles E. Leiserson, Ronald L. Rivest, and Clifford Stein*
+
+---
+
+- *Problem Solving and Program Design in C, J.R. Hanly, and E.B. Koffman, 6th Edition.*
+
+- *Robert Sedgewick and Kevin Wayne. 2011. Algorithms (4th. ed.). Addison-Wesley Professional.*
+
 - *Harvey M. Deitel and Paul J. Deitel. 2001. Java How to Program (4th. ed.). Prentice Hall PTR, USA.*
+
+---
 
 - *Paul Deitel and Harvey Deitel. 2016. Visual C# How to Program (6th. ed.). Pearson.*
 
 - *Additional Books TBD*
 
----
-
-
-
 <u>During this course, you should have a laptop for programming practices. You will have your development environment, and you will use this for examination and assignments also classroom practices. </u>
 
 ---
 
-## E.Grading System
+## E.    Grading System
 
 Midterm and Final grades will be calculated with the weighted average of the project or homework-based examinations. Midterm grades will be calculated between term beginning to the midterm week, and Final grades will be calculated between Midterm and Final week homeworks or projects as follow
 
@@ -192,10 +236,10 @@ $$
 Grade=(a_1HW_1+a_2HW_2+...+a_nHW_n)/n
 $$
 
-|      Homework			 | Weight |
-| ---------------------- | ------ |
-| 	   Midterm  		 | %40    |
-| 	   Final    		 | %60    |
+| Homework | Weight |
+| -------- | ------ |
+| Midterm  | %40    |
+| Final    | %60    |
 
 $$
 \text{Passing Grade}=(40*Midterm_{Grade}+60*Final_{Grade})/100
@@ -205,20 +249,23 @@ $$
 
 ## F. Instructional Strategies and Methods
 
-The basic teaching method of this course will be planned to be face-to-face in the classroom, and support resources, homeworks, and announcements will be shared over google classroom. Students are expected to be in the university. This responsibility is very important to complete this course with success. If pandemic situation changes and distance education is required during this course, this course will be done using synchronous and asynchronous distance education methods. In this scenario, students are expected to be in the online platform, zoom, or meet at the time specified in the course schedule. Attendance will be taken
+The basic teaching method of this course will be planned to be face-to-face in the classroom, and support resources, homeworks, and announcements will be shared over google classroom. Students are expected to be in the university. This responsibility is very important to complete this course with success. If pandemic situation changes and distance education is required during this course, this course will be done using synchronous and asynchronous distance education methods. In this scenario, students are expected to be in the online platform, zoom, or meet at the time specified in the course schedule. Attendance will be taken.
 
 ---
 
 ## G. Late Homework
 
-Throughout the semester, assignments must be submitted as specified by the announced deadline. Overdue assignments will not be accepted.
-Unexpected situations must be reported to the instructor for late homeworks by students
+Throughout the semester, assignments must be submitted as specified by the announced deadline. Your grade will be reduced by 10% of the full points for each calendar day for overdue assignments.
+
+Overdue assignments will not be accepted after three (3) days.
+
+Unexpected situations must be reported to the instructor for late homeworks by students.
 
 ---
 
 ## H. Course Platform and Communication
 
-Google Classroom and Github will be used as a course learning management system. All electronic resources and announcements about the course will be shared on this platform. It is very important to check the course page daily, access the necessary resources and announcements, and communicate with the instructor to complete the course with success.
+Google Classroom will be used as a course learning management system. All electronic resources and announcements about the course will be shared on this platform. It is very important to check the course page daily, access the necessary resources and announcements, and communicate with the instructor as you needed to complete the course with success
 
 ---
 
@@ -229,12 +276,12 @@ who breaches the principles of academic honesty is severely punished.
 
 ---
 
- It is natural to interact with classmates and others t."study together". It may also be the case where a student asks to help from someone else, paid or unpaid, better understand a difficult topic or a whole course. However, what is the borderline between "studying together" or "taking private lessons" and "academic dishonesty"? When is it plagiarism, when is it cheating?
+ It is natural to interact with classmates and others to "study together". It may also be the case where a student asks to help from someone else, paid or unpaid, better understand a difficult topic or a whole course. However, what is the borderline between "studying together" or "taking private lessons" and "academic dishonesty"? When is it plagiarism, when is it cheating?
 
 ---
 
 It is obvious that looking at another student's paper or any source other than what is allowed during the exam is cheating and will be punished. However, it is known that
-many students come to university with very little experience concerning what is acceptable and what counts as "copying,"" especially for assignments.
+many students come to university with very little experience concerning what is acceptable and what counts as "copying", especially for assignments.
 
 The following are attempted as guidelines for the Faculty of Engineering and Architecture students to highlight the philosophy of academic honesty for assignments for which the student will be graded. Should a situation arise which is not described below, the student is advised to ask the instructor or assistant of the course whether what they intend to do would remain within the framework of academic honesty or not.
 
@@ -278,13 +325,13 @@ The following are attempted as guidelines for the Faculty of Engineering and Arc
 
 - Failing to cite the origins of any text (or code for programming courses) that you discover outside of the course's lessons and integrate into your work
 
-- You are giving or showing a classmate your solution to a problem when the classmate is struggling to solve it.
+- Giving or showing a classmate your solution to a problem when the classmate is struggling to solve it.
 
 ---
 
 ## J. Expectations
 
-You are expected to attend classes on time by completing weekly course requirements (readings and assignments) during the semester. The main communication channel between the instructor and the students email emailed. Please send your questions to the instructor's email address about the course via the email address provided to you by the university. ***Ensure that you include the course name in the subject field of your message and your name in the text field***. In addition, the instructor will contact you via email if necessary. For this reason, it is very important to check your email address every day for healthy communication.
+You are expected to attend classes on time by completing weekly course requirements (readings and assignments) during the semester. The main communication channel between the instructor and the students will be emailed. Please send your questions to the instructor's email address about the course via the email address provided to you by the university. ***Ensure that you include the course name in the subject field of your message and your name in the text field***. In addition, the instructor will contact you via email if necessary. For this reason, it is very important to check your email address every day for healthy communication.
 
 ---
 
@@ -296,45 +343,51 @@ If deemed necessary, changes in the lecture content or course schedule can be ma
 
 ## Course Schedule Overview
 
-| Weeks  | Dates                 | Subjects                                                                                                                                                                                                                                                                                                                         | Other Tasks |
-|:------ |:----------------------|:-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |:----------- |
-| Week 1 | 21.02.2022-24.02.2022 | Course Plan and Communication Grading System, Assignments, and Exams. Software and Software Engineering Object Orientation and OOP with Java Part-I(Classes, Objects, Methods,Inheritance,Access Modifiers,This and InstanceOf Keywords)                                                                                         | TBD         |
-| Week 2 | 28.02.2022-03.03.2022 | OOP with Java Part-II (super keyword, final keyword, Polymorphism / Encapsulation, Method Overriding, Nested Inner Class, Static Class, Anonymous Class, Enums / Enum-Constructor / Enum-String, Abstract Class, Object Class, Forms of Inheritance, Benefits, and Costs of Inheritance, Packages, Access Protection in Packages | TBD         |
+| Weeks  | Dates                 | Subjects                                                                                                                                                                                                                                                            | Other Tasks |
+|:------ |:--------------------- |:------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |:----------- |
+| Week 1 | 04.10.2021 06.10.2021 | Course Plan and Communication,Grading System, Assignments, and Exams,Computer Engineering Job Qualifications and Road Map,Google Search Basics,Programming Introduction (Operating System Basics, Computer Network Basics, Numerical System Basics, Character Sets) | TBD         |
+| Week 2 | 11.10.2021 13.10.2021 | Algorithm Basics, Flowgorithm, Pseudocode, Programming Environment Setup and Configuration for C, C++, Java, and C#, Common Developer Tools, Online Programming Envoriments                                                                                         | TBD         |
 
 ---
 
-| Week 3 | 07.03.2022-10.03.2022 | OOP with Java Part-III(Defining and Interface and Interface Implementation, Nested Interfaces, Variables in Interfaces, Extending Interfaces, Reflection, Wrapper Classes, Lambda Notation)                                                                                                                                                                                                       | TBD |
-|:------ |:----------------------|:------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |:--- |
-| Week 4 | 14.03.2022-17.03.2022 | UML (UML tools, UML building blocks, architecture, diagrams, relationship, association, aggregation, composition comparison, association, dependency, generalization, realization, class diagram, object diagram, component diagram, deployment diagram, interaction diagram, use-case diagram, sequence diagram, collaboration diagram, state-machine diagram, activity diagram, timing diagram) | TBD |
-
----
-| Week 5     | 21.03.2022-24.03.2022 | Plantuml and Examples | TBD |   
-|:---------- |:--------------------- |:--------------------- |:--- |
-| Week-6     | 28.03.2022-31.03.2022 | UMPLE and Examples    | TBD |
-| Week-7     | 04.04.2022-07.04.2022 | UMPLE and Examples    | TBD |
-| **Week-8** | 09.04.2022-17.04.2022 | **Midterm**           | TBD |
+| Week 3 | 18.10.2021 20.10.2021 | Source Code Sharing and Version Management.                                                                        | TBD |
+|:------ |:--------------------- |:------------------------------------------------------------------------------------------------------------------ |:--- |
+| Week 4 | 25.10.2021 27.10.2021 | Shared Library Development and Application Test Automation for C, C++, C#  and Java, TDD (Test Driven Development) | TBD |
+| Week 5 | 01.11.2021 03.11.2021 | C Functional Console Programming                                                                                   |     |
 
 ---
 
-| Week-9  | 18.04.2022-21.04.2022 | Using Design Patterns | TBD |
-|:------- |:--------------------- |:--------------------- |:--- |
-| Week-10 | 25.04.2022-28.04.2022 | Using Design Patterns | TBD |
-| Week-11 | 02.05.2022-05.05.2022 | **Holiday**           | TBD |
+| Week-6 | 08.11.2021 10.11.2021 | C++ Functional Console Programming | TBD |
+|:------ |:--------------------- |:---------------------------------- |:--- |
+| Week-7 | 15.11.2021 17.11.2021 | C# Functional Console Programming  | TBD |
+| Week-8 | 20.11.2021 28.11.2021 | **Midterm**                        | TBD |
 
 ---
 
-| Week-12 | 09.05.2022-12.05.2022 | UML + UMPLE + Java Implementations    | TBD |
-|:------- |:--------------------- |:------------------------------------- |:--- |
-| Week-13 | 16.05.2022-19.05.2022 | SMC Remote Service Case Study Part-I  | TBD |
-| Week-14 | 23.05.2022-26.05.2022 | SMC Remote Service Case Study Part-II | TBD |
+| Week-9  | 29.11.2021 01.12.2021 | Java Functional Console Programming-I   | TBD |
+|:------- |:--------------------- |:--------------------------------------- |:--- |
+| Week-10 | 06.12.2021 08.12.2021 | Java Functional Console Programming-II  | TBD |
+| Week-11 | 13.12.2021 16.12.2021 | Java Functional Console Programming-III | TBD |
 
 ---
 
-| Week-15 | 30.05.2022-02.06.2022 | OOP ATM Case Study Part-I  | TBD |
-|:------- |:--------------------- |:-------------------------- |:--- |
-| Week-16 | 06.06.2022-09.06.2022 | OOP ATM Case Study Part-II | TBD |
-| Week-17 | 13.06.2022-26.06.2022 | **Final**                  |     |
+| Week-12 | 20.12.2021 22.12.2021 | C / C++ Graphical User Interface (GUI) Programming | TBD |
+|:------- |:--------------------- |:-------------------------------------------------- |:--- |
+| Week-13 | 27.12.2021 29.12.2021 | C# Graphical User Interface (GUI) Programming-I    | TBD |
+| Week-14 | 03.01.2022 05.01.2022 | C# Graphical User Interface (GUI) Programming-II   | TBD |
 
 ---
 
-$End-Of-Object-Oriented-Programming-Syllabus$
+| Week-15 | 10.01.2022 12.01.2022 | Java Graphical User Interface Programming | TBD |
+|:------- |:--------------------- |:----------------------------------------- |:--- |
+| Week-16 | 17.01.2022 30.01.2022 | **Final**    .                            | TBD |
+
+---
+
+### Bologna Information 
+
+<iframe width=700, height=1000 frameBorder=0 src="../ce103-algorithms-and-prgramming-I-bologna-en.pdf"></iframe>
+
+---
+
+$End-Of-CE103-Syllabus$
