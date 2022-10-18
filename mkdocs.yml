@@ -267,8 +267,8 @@ nav:
   - Home: index.md
   - Syllabus: syllabus/syllabus.md
   - Course Modules:
-    - Week-1 (Sample-1): week-1/week-1.md
-    - Week-2 (Sample-2): week-2/week-2.md
+    - Week-1: week-1/week-1.md
+    - Week-2: week-2/week-2.md
   - License: license.md
   - Resume: resume/index.md
   - Changelog: changelog/index.md
